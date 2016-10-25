@@ -1,0 +1,25 @@
+{
+  "name": "oojs",
+  "version": "1.1.10",
+  "description": "Power for object oriented JavaScript libraries.",
+  "keywords": [
+    "oo",
+    "oop",
+    "class",
+    "inheritance",
+    "library"
+  ],
+  "homepage": "https://www.mediawiki.org/wiki/OOjs",
+  "license": "MIT",
+  "filename": "oojs.min.js",
+  "dependencies": {},
+  "npmName": "oojs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "*"
+      ]
+    }
+  ]
+}
