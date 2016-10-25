@@ -10,6 +10,10 @@
     "library"
   ],
   "homepage": "https://www.mediawiki.org/wiki/OOjs",
+  "repository": {
+    "type": "git",
+    "url": "https://phabricator.wikimedia.org/diffusion/GOJU/oojs-ui.git"
+  },
   "license": "MIT",
   "filename": "oojs.min.js",
   "dependencies": {},
