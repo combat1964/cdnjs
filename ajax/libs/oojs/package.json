@@ -12,7 +12,7 @@
   "homepage": "https://www.mediawiki.org/wiki/OOjs",
   "repository": {
     "type": "git",
-    "url": "https://phabricator.wikimedia.org/diffusion/GOJU/oojs-ui.git"
+    "url": "https://gerrit.wikimedia.org/r/p/oojs/core"
   },
   "license": "MIT",
   "filename": "oojs.min.js",
