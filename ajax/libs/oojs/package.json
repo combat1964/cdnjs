@@ -16,13 +16,12 @@
   },
   "license": "MIT",
   "filename": "oojs.min.js",
-  "dependencies": {},
   "npmName": "oojs",
   "npmFileMap": [
     {
       "basePath": "dist",
       "files": [
-        "*"
+        "**/*"
       ]
     }
   ]
