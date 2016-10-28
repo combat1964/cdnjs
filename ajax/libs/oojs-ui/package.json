@@ -10,7 +10,7 @@
     "oojs-plugin",
     "ui"
   ],
-  "homepage": "https://www.mediawiki.org/wiki/OOjs UI",
+  "homepage": "https://www.mediawiki.org/wiki/OOjs_UI",
   "repository": {
     "type": "git",
     "url": "https://phabricator.wikimedia.org/diffusion/GOJU/"
